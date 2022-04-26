@@ -1,0 +1,29 @@
+div{
+    background-color: beige;
+    width: 400px;
+    height: 250px;
+}
+
+h1{
+    background-color: cadetblue;
+    color: white;
+
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+
+    padding-top: 80px;
+    padding-bottom: 100px;
+    padding-right: 80px;
+    padding-left: 80px;
+
+    border-top: solid 3px black;
+    border-right:solid 3px black;
+    border-bottom: solid 3px black;
+    border-left: solid 3px black;
+
+    display: inline;
+    
+    
+}
